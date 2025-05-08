@@ -136,12 +136,3 @@ const user: FullInfo = {
   company: "REZ comp"
 };
 
-## Final Tip
-
-Use TypeScript's type system to:
-
-   it Prevent bugs before runtime
-
-   it can Write clean and scalable code
-
-   it  Helps our team understand and maintain the code easily
